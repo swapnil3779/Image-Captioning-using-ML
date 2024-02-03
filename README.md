@@ -10,17 +10,28 @@ In this project, we employ CNN to determine the image's caption. Large datasets 
 - <b>Python</b> 
 - <b>Jupyter(Colab)</b>
 
-<h2>Environments Used</h2>
+<h2>Output</h2>
 
-- <b>Windows 10</b>(21H2)
+<b>We have reviewed deep learning-based picture captioning methods in this project, along with a taxonomy, assessment criteria, datasets, and possible future research lines. Even though a lot of progress has been made, a reliable approach for creating high-quality captions for almost all photographs is still a way off. With the creation of cutting-edge deep learning network topologies, the topic of automatic picture captioning will continue to be a research hotspot.</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Feature Extraction in Image: <br/>
+<img src="https://i.imgur.com/dZQG5zP.png" height="35%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+ 
+<p align="center">
+Architecture of the Project: <br/>
+<img src="https://i.imgur.com/YNW0fvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p align="center">
+Results: <br/>
+<img src="https://i.imgur.com/JS4nzdE.png" height="55%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+[start] parents are pushing little children in red car carts [end]: <br/>
 <!--
  ```diff
 - text in red
